@@ -1,0 +1,1 @@
+Trata-se de um projeto proposto pela escola de tecnologia DIO (www.dio.me), no bootcamp "Coding The Future CAIXA - IA Generativa com Microsoft Copilot". O objetivo era criar uma Dashboard com uma massa de dados utilizando o Excel ou ferramenta similar. Foi utilizado o Excel 2007.
